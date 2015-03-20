@@ -1,5 +1,7 @@
 ltsv
 ====
+.. image:: https://travis-ci.org/yone098/ltsv.svg?branch=yone098-dev
+    :target: https://travis-ci.org/yone098/ltsv
 
 LTSV (Labeled Tab-separated Values) reader/writer for Go language.
 
