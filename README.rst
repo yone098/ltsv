@@ -1,7 +1,5 @@
 ltsv
 ====
-.. image:: https://travis-ci.org/yone098/ltsv.svg?branch=yone098-dev
-    :target: https://travis-ci.org/yone098/ltsv
 
 LTSV (Labeled Tab-separated Values) reader/writer for Go language.
 
@@ -15,6 +13,8 @@ About LTSV: http://ltsv.org/
 	original TSV format) easily, and extend any fields with unique labels 
 	in no particular order.
 
+.. image:: https://travis-ci.org/yone098/ltsv.svg?branch=yone098-dev
+    :target: https://travis-ci.org/yone098/ltsv
 
 Example
 =======
